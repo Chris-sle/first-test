@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "helloWorld.C": "cpp",
+        "dateTypes.C": "cpp"
+    }
+}
