@@ -4,6 +4,9 @@
         "helloWorld.C": "cpp",
         "dateTypes.C": "cpp",
         "testingConst.C": "cpp",
-        "arithmetricOperations.C": "cpp"
+        "arithmetricOperations.C": "cpp",
+        "userInputs.C": "cpp",
+        "simpleMath.C": "cpp",
+        "findCircleCircumference.C": "cpp"
     }
 }
