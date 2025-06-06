@@ -2,6 +2,8 @@
     "files.associations": {
         "*.embeddedhtml": "html",
         "helloWorld.C": "cpp",
-        "dateTypes.C": "cpp"
+        "dateTypes.C": "cpp",
+        "testingConst.C": "cpp",
+        "arithmetricOperations.C": "cpp"
     }
 }
