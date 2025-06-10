@@ -3,7 +3,6 @@
 
 int main() {
 
-
     // Program to find the hypotenuse of a right triangle using the Pythagorean theorem
     double a, b, hypotenuse;
 
