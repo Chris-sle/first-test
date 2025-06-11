@@ -9,6 +9,7 @@
         "simpleMath.C": "cpp",
         "findCircleCircumference.C": "cpp",
         "hopytenuseFinder.C": "cpp",
-        "TempConversion.C": "cpp"
+        "TempConversion.C": "cpp",
+        "simpleCalculator.C": "cpp"
     }
 }
