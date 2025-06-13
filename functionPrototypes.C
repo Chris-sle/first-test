@@ -2,16 +2,19 @@
 #include <stdbool.h>
 
 void hello(char[], int) ; // Function prototype
-// Without a function prototype, the compiler would not know about the function 'hello' before it is called in main.
-// Function prototype is a declaration of a function that specifies the function's name, return type, and parameters.
-// Function prototypes are useful for informing the compiler about the function's existence before its actual definition.
-// This allows the function to be called before it is defined in the code.
-// If not used, 
-// the compiler may do things like assuming the function returns an int type, which can lead to errors or unexpected behavior.
+
 
 
 int main() {
     // A simple program to demonstrate function prototypes in C
+    // WHAT IS IT?
+    // Function declarations, w/o body, before main()
+    // Ensures that calls to a function are made with the correct arguments
+
+    // IMPORTANT NOTES:
+    // Many C compilers do not check the number of arguments passed to a function.
+    // If a function is called with the wrong number of arguments, it may lead to undefined behavior.
+    // A functiono prototype causes the compiler to flag an error if arguments are missing.
     
     char name[] = "Chris";
     int age = 35;
