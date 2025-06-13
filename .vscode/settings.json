@@ -12,6 +12,7 @@
         "TempConversion.C": "cpp",
         "simpleCalculator.C": "cpp",
         "logicOperators.C": "cpp",
-        "functionsAndExtra.C": "cpp"
+        "functionsAndExtra.C": "cpp",
+        "functionPrototypes.C": "cpp"
     }
 }
