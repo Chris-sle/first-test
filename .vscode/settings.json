@@ -13,6 +13,8 @@
         "simpleCalculator.C": "cpp",
         "logicOperators.C": "cpp",
         "functionsAndExtra.C": "cpp",
-        "functionPrototypes.C": "cpp"
+        "functionPrototypes.C": "cpp",
+        "loops.C": "cpp",
+        "simpleRandom.C": "cpp"
     }
 }
