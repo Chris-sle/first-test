@@ -16,6 +16,7 @@
         "functionPrototypes.C": "cpp",
         "loops.C": "cpp",
         "simpleRandom.C": "cpp",
-        "guessTheNumber.C": "cpp"
+        "guessTheNumber.C": "cpp",
+        "rockPaperScissors.C": "cpp"
     }
 }
