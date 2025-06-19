@@ -15,6 +15,7 @@
         "functionsAndExtra.C": "cpp",
         "functionPrototypes.C": "cpp",
         "loops.C": "cpp",
-        "simpleRandom.C": "cpp"
+        "simpleRandom.C": "cpp",
+        "guessTheNumber.C": "cpp"
     }
 }
