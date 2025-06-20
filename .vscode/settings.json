@@ -17,6 +17,7 @@
         "loops.C": "cpp",
         "simpleRandom.C": "cpp",
         "guessTheNumber.C": "cpp",
-        "rockPaperScissors.C": "cpp"
+        "rockPaperScissors.C": "cpp",
+        "Arrays.C": "cpp"
     }
 }
