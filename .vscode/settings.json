@@ -18,6 +18,7 @@
         "simpleRandom.C": "cpp",
         "guessTheNumber.C": "cpp",
         "rockPaperScissors.C": "cpp",
-        "Arrays.C": "cpp"
+        "Arrays.C": "cpp",
+        "simpleBankingApp.C": "cpp"
     }
 }
