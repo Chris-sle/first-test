@@ -19,6 +19,7 @@
         "guessTheNumber.C": "cpp",
         "rockPaperScissors.C": "cpp",
         "Arrays.C": "cpp",
-        "simpleBankingApp.C": "cpp"
+        "simpleBankingApp.C": "cpp",
+        "ArrayOfStrings.C": "cpp"
     }
 }
