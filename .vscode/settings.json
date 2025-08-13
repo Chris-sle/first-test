@@ -21,6 +21,7 @@
         "Arrays.C": "cpp",
         "simpleBankingApp.C": "cpp",
         "ArrayOfStrings.C": "cpp",
-        "QuizGame.C": "cpp"
+        "QuizGame.C": "cpp",
+        "TenaryOperators.C": "cpp"
     }
 }
