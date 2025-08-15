@@ -22,6 +22,7 @@
         "simpleBankingApp.C": "cpp",
         "ArrayOfStrings.C": "cpp",
         "QuizGame.C": "cpp",
-        "TenaryOperators.C": "cpp"
+        "TenaryOperators.C": "cpp",
+        "Typedef.C": "cpp"
     }
 }
