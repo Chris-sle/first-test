@@ -11,6 +11,8 @@ typedef struct {
     float height;
 } Person; // Defining a new type 'Person' for a structure
 
+void printPersonInfo(Person p);
+
 int main() {
     // Create an instance of the Person struct
     Person person1 = {"John Doe", 25, 5.9};
@@ -22,16 +24,14 @@ int main() {
     person2.age = 30;
     person2.height = 5.5;
 
-    // Accessing and printing the members of the struct
-    printf("Person 1 Details:\n");
-    printf("Name: %s\n", person1.name);
-    printf("Age: %d\n", person1.age);
-    printf("Height: %.2f\n", person1.height);
-
-    printf("Person 2 Details:\n");
-    printf("Name: %s\n", person2.name);
-    printf("Age: %d\n", person2.age);
-    printf("Height: %.2f\n", person2.height);
+    // Print the details of both persons
+    printPersonInfo(person1);
+    printPersonInfo(person2);
 
     return 0;
+}
+
+void printPersonInfo(Person p) {
+    // Accessing and printing the members of the struct
+    printf("Name: %s, Age: %d, Height: %.2f\n", p.name, p.age, p.height);
 }
